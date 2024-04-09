@@ -7,7 +7,7 @@ import plugins from './plugin'
 const config = defineUserConfig({
     base: '/',
     lang: 'zh-TW',
-    title: '中文常見問題百科',
+    title: 'Minecraft 常見問題百科',
     description: '',
     head: [
         ['meta', { charset: 'utf-8' }],
