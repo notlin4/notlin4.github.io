@@ -8,7 +8,8 @@
 ### 支援
 > 雖然本百科已經涵蓋很多問題，但你可能還是需要一些協助，下列為推薦的提問伺服器：
 * 一般的技術性問題可以在 [RPMTW](https://discord.gg/rpmtw-er-zhou-nian-815819580840607807) 詢問
-* 另一個選項為 [TeamKugimiya 釘宮翻譯組](https://discord.gg/7BbPMtygHU)，主要為模組與翻譯相關的問題 
+* 另一個選項為 [TeamKugimiya 釘宮翻譯組](https://discord.gg/7BbPMtygHU)，主要為模組與翻譯相關的問題
+
 記得遵守發布問題前的注意事項再發布問題！
 
 ### 傳送門
