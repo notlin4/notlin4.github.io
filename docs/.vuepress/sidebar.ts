@@ -6,6 +6,11 @@ const sidebar: SidebarConfig = {
       link: '/'
     }
   ]
+  'prism_install_guide': [{
+      text: 'Prismlauncher 安裝教學',
+      link: 'prism_install_guide'
+  }
+]
 }
 
 export default sidebar
