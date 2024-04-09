@@ -1,6 +1,8 @@
 # 如何安裝 Prismlauncher
 這篇文章將會教你如何安裝 Prismlauncher
 
+
+### 安裝
 一、透過瀏覽器安裝
 1. 前往 [Java](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jdk) 下載 Java
 
@@ -18,6 +20,12 @@
     * 請選擇 Installer (.exe)
     打開安裝檔並安裝 Prismlauncher
 
+二、透過 winget 安裝
+1. 開啟 cmd 輸入 `winget search Adoptium`
+1. 選擇適合的版本並安裝。範例： `winget install EclipseAdoptium.Temurin.17.JDK`
+1. 輸入 `winget install Prismlauncher.Prismlauncher` 安裝 Prismlauncher
+
+### 使用
 1. 設定 Prismlauncher
     * 在 Java 清單中選擇上述表格中的 Java 版本
     * 記憶體建議設定 4096 MB，由於 Java 的特性，分配更多會對效能優化造成反效果！
