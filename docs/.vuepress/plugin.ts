@@ -5,8 +5,8 @@ const plugins: PluginConfig = [
     seoPlugin({
         hostname: 'https://doc.mc-list.xyz',
         author: {
-            name: '猫又おにぎり',
-            url: 'https://haer0248.me'
+            name: 'notlin4',
+            url: 'https://notlin4.github.io'
         },
         fallBackImage: '/images/favicon-256x256.png',
         twitterID: 'haer0248',
