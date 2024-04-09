@@ -6,7 +6,7 @@
 一、透過瀏覽器安裝
 1. 前往 [Java](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jdk) 下載 Java
 
-    提示: 可以在左上角選擇 Java 版本！
+    > 提示：可以在左上角選擇 Java 版本！
 
     以下是所有 Minecraft 版本所需的 Java 版本：
 
@@ -15,6 +15,8 @@
     | 1.20.5 或以上 | Java 21 |
     | 1.17 ~ 1.20.4 | Java 17 |
     | 1.16.5 或以下 | Java 8 |
+
+    > 提示：請盡量安裝 JDK！高版本的 JRE 可能不穩定！
 
 1. 前往 [官網](https://prismlauncher.org/download) 下載安裝檔
     * 請選擇 Installer (.exe)
