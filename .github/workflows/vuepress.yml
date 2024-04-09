@@ -42,7 +42,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: 'docs/.vuepress/dist'
           publish_branch: gh-pages
-          cname: doc.mc-list.xyz
           
   Deploy:
     name: Deploy to Github Pages 🚀
