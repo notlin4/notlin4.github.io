@@ -26,7 +26,7 @@ const config = defineUserConfig({
         docsDir: 'docs',
         editLink: true,
         editLinkPattern: ':repo/edit/:branch/:path',
-        editLinkText: '在 GitHub 查看此頁面',
+        editLinkText: '在 GitHub 編輯此頁面',
         lastUpdated: true,
         lastUpdatedText: '最後更新',
         contributors: false,
@@ -46,7 +46,7 @@ const config = defineUserConfig({
             link: 'https://tsaitou7361.github.io/discord'
         }, 
         {
-            text: '開發者',
+            text: '開發人員',
             children: [{
                 text: 'notlin4',
                 link: 'https://notlin4.github.io'
