@@ -46,10 +46,10 @@ const config = defineUserConfig({
             link: 'https://tsaitou7361.github.io/discord'
         }, 
         {
-            text: '擁有者',
+            text: '開發者',
             children: [{
-                text: 'notlin',
-                link: 'about://blank'
+                text: 'notlin4',
+                link: 'https://blank'
             }, {
                 text: 'Tsaitou7361',
                 link: 'https://tsaitou7361.github.io'
