@@ -26,7 +26,7 @@ const config = defineUserConfig({
         docsDir: 'docs',
         editLink: true,
         editLinkPattern: ':repo/edit/:branch/:path',
-        editLinkText: '在 Github 查看此頁面',
+        editLinkText: '在 GitHub 查看此頁面',
         lastUpdated: true,
         lastUpdatedText: '最後更新',
         contributors: false,
@@ -39,7 +39,7 @@ const config = defineUserConfig({
         warning: '注意',
         danger: '警告',
         notFound: [
-          '此頁面不存在'
+          '這個頁面不存在'
         ],
         navbar: [{
             text: 'Discord',
