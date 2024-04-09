@@ -49,7 +49,7 @@ const config = defineUserConfig({
             text: '開發者',
             children: [{
                 text: 'notlin4',
-                link: 'https://blank'
+                link: 'https://notlin4.github.io'
             }, {
                 text: 'Tsaitou7361',
                 link: 'https://tsaitou7361.github.io'
